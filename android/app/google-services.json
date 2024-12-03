@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151083432541",
+    "firebase_url": "https://udemy-shop-app-e94ee-default-rtdb.firebaseio.com",
+    "project_id": "udemy-shop-app-e94ee",
+    "storage_bucket": "udemy-shop-app-e94ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151083432541:android:5df7d52208c82dc08a2bb4",
+        "android_client_info": {
+          "package_name": "com.miniproject.pennysmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151083432541-epbg11t77unlgg9ugitrg3csdibdolh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-_GitT6gfyWFzW6WUnZXt6HIQv9mtsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151083432541-epbg11t77unlgg9ugitrg3csdibdolh9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151083432541-ilurc2nbb6l79ccfn5m49h80avjrndvf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
