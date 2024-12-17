@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pennysmart/components/navbar/nav_button.dart';
-import 'package:pennysmart/components/navbar/nav_custom_painter.dart';
+import 'package:pennysmart/widgets/navbar/nav_button.dart';
+import 'package:pennysmart/widgets/navbar/nav_custom_painter.dart';
 
 typedef _LetIndexPage = bool Function(int value);
 
