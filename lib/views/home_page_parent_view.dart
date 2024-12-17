@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:pennysmart/components/CustomFloatingActionButton.dart';
-import 'package:pennysmart/components/appbar/appbar_actions.dart';
-import 'package:pennysmart/components/page_toggles.dart';
+import 'package:pennysmart/widgets/CustomFloatingActionButton.dart';
+import 'package:pennysmart/widgets/appbar/appbar_actions.dart';
+import 'package:pennysmart/widgets/page_toggles.dart';
 import 'package:pennysmart/constants/homepage.dart';
 
 class HomePagParentView extends StatefulWidget {
